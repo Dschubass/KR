@@ -1,2 +1,2 @@
 # KR
-KR2
+https://dschubass.github.io/KR/
